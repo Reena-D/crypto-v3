@@ -1,3 +1,14 @@
+# Demo images
+
+![Screenshot 2024-07-07 133706](https://github.com/Reena-D/crypto-v3/assets/94836211/92c73661-0baf-4145-acec-5cd06e7607c6)
+
+
+![Screenshot 2024-07-07 133717](https://github.com/Reena-D/crypto-v3/assets/94836211/c342041f-d0cf-46cb-b8de-af73b2dca974)
+
+
+![Screenshot 2024-07-07 133800](https://github.com/Reena-D/crypto-v3/assets/94836211/15e12f66-e9e0-4a0a-bdd1-7b0abdb868ad)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
